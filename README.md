@@ -8,13 +8,13 @@
 ```
 npm install yo -g
 
-npm install generator-Benz -g 
+npm install generator-benz -g 
 ```
 
 ### install
 
 ```
-yo Benz
+yo benz
 ```
 
 联系我 1061752323@qq.com

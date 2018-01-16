@@ -1,5 +1,5 @@
 {
-    "name": "generator-Benz",
+    "name": "generator-benz",
     "version": "0.0.1",
     "description": "基于dva的react+webpack的项目目录快速生成器",
     "main": "index.js",
