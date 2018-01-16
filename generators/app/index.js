@@ -76,10 +76,6 @@ module.exports = class extends Generator {
             this.destinationPath(_path + '/.eslintrc')
         );
         this.fs.copyTpl(
-            this.templatePath('.gitignore'),
-            this.destinationPath(_path + '/.gitignore')
-        );
-        this.fs.copyTpl(
             this.templatePath('.eslintignore'),
             this.destinationPath(_path + '/.eslintignore')
         );
